@@ -1,3 +1,8 @@
-My Jupyter notebooks for the Winton Kaggle challenge
+# Kaggle
+* https://www.kaggle.com/juanlasheras
 
-Grab the data [here](https://www.kaggle.com/c/the-winton-stock-market-challenge/data)
+## Competitions
+* [The Winton Stock Market Challenge](./winton)
+  * Winter 2016 - Rank 276/1300
+* [Facebook V: Predicting Check Ins](./fb5-checkins)
+  * Summer 2016 - Rank 475/1212
